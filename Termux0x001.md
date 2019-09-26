@@ -143,9 +143,14 @@ vim ~/.zshrc
 ```
 
 第一行可以看到,默认的zsh主题是agnoster主题:
+
 ![3](https://image.3001.net/images/20180501/15251531807018.png)
 
-在`~.oh-my-zsh/themes`目录下放着oh-my-zsh所有的主题配置文件。可以进行更改，具体请看[oh my zsh 文档](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
+我们可以吧agmoster改成robbyrussell。重启termux生效：
+
+![2](https://image.3001.net/images/20180501/15251540733399.png)
+
+在`~.oh-my-zsh/themes`目录下放着oh-my-zsh所有的主题配置文件。可以编辑`~/.zshrc`更改配色和zsh行为，具体请看[oh my zsh 文档](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)
 
 
 至此，Termux配置完毕，你可以在终端里愉快的为所欲为了。
